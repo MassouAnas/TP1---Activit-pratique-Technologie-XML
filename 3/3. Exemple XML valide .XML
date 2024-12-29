@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<releve RIB="011112222333344445555666">
+  <dateReleve>2025-01-01</dateReleve>
+  <solde>14500</solde>
+  <operations dateDebut="2021-01-01" dateFin="2021-01-30">
+    <operation type="CREDIT" date="2024-12-29" montant="9000" description="Vers Espèce"/>
+    <operation type="DEBIT" date="2024-12-29" montant="3400" description="Chèque Guichet"/>
+    <operation type="DEBIT" date="2024-12-29" montant="120" description="Prélèvement Assurance"/>
+    <operation type="CREDIT" date="2024-12-31" montant="70000" description="Virement"/>
+  </operations>
+</releve>
